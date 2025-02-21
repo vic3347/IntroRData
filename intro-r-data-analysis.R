@@ -29,3 +29,6 @@ nrow(iris)
 nrow (setosa)
 
 
+t.test (x = setosa$Petal.Length, y = versicolor$Petal.Length)
+
+
